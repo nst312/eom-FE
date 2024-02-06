@@ -1,0 +1,17 @@
+{
+  "tradingName": "Coca-Cola India",
+  "account": [
+    {
+      "name": "Account 1",
+      "product": { "name": "180 Plans" }
+    },
+    {
+      "name": "Account 2",
+      "product": { "name": "180 Plans" }
+    },
+    {
+      "name": "Account 1",
+      "product": { "name": "180 Plans" }
+    }
+  ]
+}

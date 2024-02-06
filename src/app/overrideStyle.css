@@ -1,0 +1,17 @@
+.container{
+    max-width: 100%!important;
+}
+
+.FusePageCarded-contentWrapper{
+    padding: 0!important;
+}
+
+.FusePageCarded-header{
+    padding: 16px 20px!important;
+    height: auto!important;
+    min-height: auto!important;
+}
+
+.FusePageCarded-contentCard {
+    border-radius: 0!important;
+}

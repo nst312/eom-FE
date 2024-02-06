@@ -1,0 +1,36 @@
+.grid-cols-5 > *{
+    border-left: 1px solid black;
+}
+
+.heading-grid > div{
+    border: 1px solid black;
+    border-right: none;
+}
+
+.heading-grid > div:last-child {
+    border-left: 1px solid red;
+}
+
+.grid-cols-5 >  p:last-child{
+    border-right: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.pricing-container{
+    width: 100%;
+}
+
+.pricing-container-text{
+    display: none;
+}
+
+@media screen and (max-width : 768px) {
+    .pricing-container {
+        display: none;
+    }
+
+    .pricing-container-text{
+        display: block;
+    }
+}
+
